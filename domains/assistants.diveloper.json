@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "diveloper53"
+    },
+    "records": {
+        "NS": ["ns1.bomj.top", "ns2.bomj.top"]
+    },
+    "proxied": true
+}
